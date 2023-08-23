@@ -1,0 +1,62 @@
+<resources>
+    <string name="app_name">Examen</string>
+    <string name="password">Contraseña</string>
+    <string name="username">Usuario</string>
+    <string name="astro">Astronomía</string>
+    <string name="mate">Matemática Comercial</string>
+    <string name="cerrar">Cerrar</string>
+    <string name="depre">Depreciación</string>
+    <string name="interesimple">Interés Compuesto</string>
+    <string name="interes">Interés Simple</string>
+    <string name="distancias">Distancia Estelar</string>
+    <string name="magnitudes">Magnitud Estelar</string>
+    <string name="edad">Edad de una Estrella</string>
+    <string name="titulo">Escoja una de las opciones</string>
+    <string name="img" />
+    <string name="calc" />
+    <string name="planet" />
+    <string name="interesclac">Cálculo de Interés</string>
+    <string name="volver">Volver</string>
+    <string name="calcular">Calcular</string>
+    <string name="cantidad">Ingrese una cantidad</string>
+    <string name="finace" />
+    <string name="tasa">Tasa de interés (%)</string>
+    <string name="cantidad_de_tiempo">Cantidad de tiempo</string>
+    <string name="voler">Volver</string>
+    <string name="calcularw">Calcular</string>
+    <string name="cantidad_de_tiempocom">Cantidad de tiempo</string>
+    <string name="tasa_de_inter_s">Tasa de interés (%)</string>
+    <string name="cantidad_inicial">Cantidad inicial</string>
+    <string name="inter_s_compuesto">Interés Compuesto</string>
+    <string name="cochi" />
+    <string name="depreciaci_n_con_descuento">Depreciación</string>
+    <string name="ingrese_la_cantidad">Ingrese la cantidad</string>
+    <string name="ingrese_la_cantidad_de_a_os">Ingrese la cantidad de años</string>
+    <string name="calcularr">Calcular</string>
+    <string name="volver2">Volver</string>
+    <string name="volver6">Volver</string>
+    <string name="calcular_distancia">Calcular Distancia</string>
+    <string name="tiempo_a_os">Tiempo (años)</string>
+    <string name="cantidade">Cantidad</string>
+    <string name="distancia_estelar">Distancia Estelar</string>
+    <string name="volver7">Volver</string>
+    <string name="calcular_distancia55">Calcular Distancia</string>
+    <string name="c">Tiempo (años)</string>
+    <string name="cantidadede">Cantidad</string>
+    <string name="uuuu">Distancia Estelar</string>
+    <string name="calculo_magnitud">Cálculo De Magnitud</string>
+  <string name="flujo">Flujo</string>
+    <string name="distancia_en_parsecs">Distancia en Parsecs</string>
+    <string name="calcular_magnitud">Calcular Magnitud</string>
+    <string name="magnitud_resultado">La magnitud estelar calculada es %.2f</string>
+    <string name="calcular_edad">Calcular Edad</string>
+    <string name="edad_de_una_estrella">Edad de una Estrella</string>
+    <string name="edad_resultado">La edad estimada de la estrella es %.2f millones de años.</string>
+
+    <string-array name="tiempo_array">
+        <item>Años</item>
+        <item>Meses</item>
+        <item>Días</item>
+    </string-array>
+
+</resources>
